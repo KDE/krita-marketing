@@ -1,0 +1,60 @@
+Krita 2.8 released
+
+Wednesday, 5 March 2014
+
+The Krita Team and KO GmbH present the 2.8 release of the full-featured open-source digital painting studio, Krita.
+
+Krita is an advanced digital painting application, used by illustrators, comic book artists, concept artists, matte painters, in VFX and game studios, all over the world. Krita 2.8 is freely available for Windows and Linux.
+
+Krita 2.8 presents a major step for the Krita project: from this release on, Krita is fully supported on Windows.
+
+The 2.8 release also brings many new features:
+Krita 2.8 benefits from a complete rewrite of the graphics tablet support. Both Wacom and uc-logic based tablets are now supported, thanks to Huion, Wacom and Intel who provided hardware to test with. Both on Windows and on Linux, the drawing is experience is better than ever.
+
+Thanks to the Krita user community who raised funding for test hardware, Krita's OpenGL canvas has been enormously improved. The new High Quality Filtering option uses shaders instead of hardware to perform display zooming, giving clean, clear, crisp and accurate lineart, also at lower zoom levels. The OpenGL based canvas also supports a wraparound mode where the image is displayed as tiles, making creating seamless textures easier than every before.
+
+Krita can now use external files as display-only file layers, for instance for adding inking layers for comics for for better integration with content created in compositors like The Foundry's Nuke. If the file gets updated, Krita will automatically update the image you are working on.
+In addition to the native filters, Krita now has a g'mic plugin, which makes available all the weird and wonderful effects g'mic brings.
+
+The clones array feature lets you create a set of tiled clones from the current layer, at specific offsets. This is particularly useful when creating 2D tiles for games.
+
+The borders of the canvas now have buttons that make it easy to expand your image in a particular direction.
+
+Krita 2.8 has also received hundreds of performance improvements, usability improvements and bug fixes, making Krita more stable and more fun to use than ever. Krita supports the latest version of the OpenRaster specification for interoperability with GIMP and MyPaint.
+Line stabilization, textured brushes, improved transform tool, grayscale selections and masks, drag & drop, the color-to-alpha filter, compositions docker, alpha channel curves filter, seamless images, offset tool, stroke vector shapes, isolate layer, new shortcuts, improved smudging...
+
+Krita is free, innovative, fun and productive:
+
+  “Krita is a production beast” — David Revoy, illustrator and concept artist.
+
+  “Krita's brush interface is wonderful … it has several great features that Photoshop still lacks” — Oscar Baechler,  illustrator, 2D and 3D animator, rigger and designer.
+
+  “Krita is one of the best-kept secrets among Linux applications.” — Nathan Willis, journalist
+
+Krita 2.8 exists in four versions:
+
+Krita Desktop: freely available on Windows and Linux, a full-featured and advanced painting application.
+Krita Sketch: advanced painting for Windows-based tablets and soon for Big Picture mode under Steam OS.
+Krita Desktop: seamless switching between laptop mode and tablet mode for convertible ultrabooks, soon available on Valve's Steam Platform.
+Krita Studio: concept, texture, matte and HDR painting for VFX and Game studios, commercially supported by KO GmbH on Windows, Red Hat Enterprise Linux and Ubuntu LTS.
+
+Krita is developed by an international team of free software developers, joined together with the Krita Foundation and KO GmbH. Krita is a KDE project.
+
+Release Announcement
+
+http://www.krita.org/220-krita-2-8-0-released
+
+Downloads
+
+http://www.krita.org/download
+
+Press Information
+
+* http://www.krita.org/press
+* Full description of Krita 2.8 in PDF format: http://krita.org/aboutkrita2.8_sm.pdf
+* Screenshots: http://krita.org/screenshots.zip
+* Logo, mascot, splash screen: http://krita.org/mascot_icon.zip
+
+Commercial Support
+
+http://www.kritastudio.com/support.html
