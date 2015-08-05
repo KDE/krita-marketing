@@ -1,0 +1,26 @@
+Krita 2.9 will be released on Wednesday 
+
+Hi!
+
+Wednesday, Feburary 26th, we're going to release version 2.9.0 of Krita, the award-winning free and open source digial painting application. It's the biggest release we've ever had. Here's a link to the full changelog (which will be made public on Wednesday, so please keep it under wraps until then!)
+
+https://krita.org/krita-2-9-the-kickstarter-release/
+
+The biggest highlights:
+
+* We implemented eleven out of twelve of the features funded by our first kickstarter (the twelfth is coming in 2.9.1) See https://www.kickstarter.com/projects/krita/krita-open-source-digital-painting-accelerate-deve and 
+https://krita.org/item/the-votes-are-in/.
+
+* Krita now supports loading and showing multiple images in one window, and viewing any given image in multiple views and windows.
+
+* Krita now fully integrates the G'Mic set of image manipulation tools, enabling artists to, for instance, greatly speed-up their workflow: http://www.davidrevoy.com/article247/krita-2-9-comic-coloring-tutorial.
+
+* Support for painting in HDR mode got greatly extended, making it a true creative tool.
+
+And there's much, much more, ranging from new perspective painting assistants to new color selectors, improved transform tools and non-destructive transformation masks, brush engine improvements, workflow improvements, new filters, support for creating and installing resource packs (brushes, gradients, patterns and so on).
+
+In January, ImagineFX, the biggest print magazine for creative artists and illustrators already awarded Krita their Artists' Choice accolade: https://krita.org/item/krita-receives-artist-choice-award-from-imaginefx/.
+
+Yours,
+
+Boudewijn Rempt
