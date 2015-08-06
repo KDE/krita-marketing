@@ -1,0 +1,100 @@
+\documentclass[10pt,a4paper]{book}
+
+
+% Fonts and typography
+
+%% Typography
+\usepackage[no-math]{fontspec}
+\defaultfontfeatures{Mapping = tex-text, Scale = MatchUppercase}
+
+%% Fonts
+\setmainfont{FreeSans}
+\setsansfont{JustMeAgainDownHere.ttf}
+%\setmonofont[Mapping=tex-ansi]{Menlo}
+
+% Page
+
+%% Use full page in book style
+\usepackage{fullpage}
+
+%% Set line spacing
+\usepackage{setspace}
+\setstretch{1.2}
+
+%% Disable paragraph indentation
+\usepackage{parskip}
+
+%% Start sections from new page
+\let\stdsection\section
+\renewcommand\section{\newpage\stdsection}
+
+
+% Colors
+
+\usepackage{xcolor}
+
+\definecolor{DarkGrey}{HTML}{777777}
+\definecolor{LightGrey}{HTML}{D1D1D1}
+\definecolor{DarkSkyBlue}{HTML}{2A6496}
+\definecolor{LightSkyBlue}{HTML}{428BCA}
+\definecolor{Pink}{HTML}{E3A2C2}
+\definecolor{Black}{HTML}{000000}
+
+%% Set Headings
+\usepackage{sectsty}
+\usepackage{titlesec}
+
+\titleformat*{\section}{\Huge\bfseries\sffamily\color{DarkGrey}}
+\titleformat*{\subsection}{\LARGE\bfseries\sffamily\color{Pink}}
+\titleformat*{\subsubsection}{\Large\bfseries\sffamily\color{DarkGrey}}
+
+
+% Links
+
+%% Hyperref
+\usepackage[colorlinks, breaklinks, bookmarks, xetex]{hyperref}
+
+\hypersetup {
+  linkcolor = DarkSkyBlue,
+  citecolor = DarkSkyBlue,
+  filecolor = DarkSkyBlue,
+  urlcolor = DarkSkyBlue
+}
+
+%% Don’t use Mono font for URLs
+\urlstyle{same}
+
+
+% Images
+
+\usepackage{keyval}
+\usepackage{graphicx}
+\setkeys{Gin}{width=0.75\textwidth}
+% Pandoc hacks
+
+%% Normal enumerates processing
+\usepackage{enumerate}
+
+%% Disable section numbers
+\setcounter{secnumdepth}{0}
+
+
+\begin{document}
+
+  % Title page
+
+  \thispagestyle{empty}
+
+  \vspace*{\fill}
+    \begin{center}
+      \includegraphics[width=1.0\textwidth]{introduction_title.png}
+    \end{center}
+  \vspace*{\fill}
+
+  \setcounter{page}{0}
+
+  % Book contents
+
+  $body$
+
+\end{document}
