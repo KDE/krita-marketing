@@ -4,7 +4,7 @@ by Wolthera van Hövell
 
 I remember when paint tool Sai first came to the west. It was impressive with it's color mixing brush, the stablizer and the canvas manipulation. An excellent drawing program.
 
-However, as well all know, once you needed advanced features like transforms, filters, CMYK support and the like, Sai is just a tad bit too simple.
+However, as we all know, once you needed advanced features like transforms, filters, CMYK support and the like, Sai is just a tad bit too simple.
 
 Krita is an open source project that decided to make painters and illustrators it's target audience. For most people open source means that they can get it for free. For me, as someone with programming skills, open source means I can contribute features to the program. Because I am not the only one who likes making features for Krita, it's far more complex than Sai. And I think, for some users a little bit mystifying. I want to help you get used to Krita and lift some of the mystery around this extremely powerful painting program.
 
