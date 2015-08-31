@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.15828845"
-     inkscape:cx="862.6844"
-     inkscape:cy="269.45023"
+     inkscape:zoom="0.22385367"
+     inkscape:cx="1291.429"
+     inkscape:cy="771.84259"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2735,7 +2735,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2751,7 +2751,10 @@
        width="2636"
        height="1941.0001"
        x="20"
-       y="1592.3622" />
+       y="1592.3622"
+       inkscape:export-filename="/home/wolthera/kde4/krita-docs/krita-marketing/ShortcutSheet/krita-shortcuts_29/en_krita_2.9_shortcuts_dark.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <g
        id="g8644"
        transform="translate(46.0992,0)">
@@ -5484,7 +5487,7 @@
      inkscape:groupmode="layer"
      id="layer10"
      inkscape:label="branding"
-     style="display:inline"
+     style="display:none"
      transform="translate(0,3.4765626e-5)"
      sodipodi:insensitive="true">
     <text
