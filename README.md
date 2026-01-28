@@ -4,6 +4,14 @@ This repository was created to facilitate the deployment and updating of Krita a
 
 The goal is to create a set of base assets that can be reused (potentially needing platform-specific modifications to comply with platform rules and certification processes) to create a consistently polished presence for Krita across every store on which it's available.
 
+## A quick note on Git LFS (Large File Storage)
+
+As this repo is potentially going to track a decent number of large binary files, it's been configured to make use of Git LFS (Large File Storage). This not only reduces the size of the repo itself by using pointer files in place of binary assets (only checking out the files that are needed for your working tree from the LFS server), but also allows for locking files to potentially help avoid conflicts between binary formats that are not easy to resolve.
+
+Once you have Git LFS installed on your local system, you should be able to interact with this repo as you normally would using `git clone`, `git pull`, `git push`, and so on. However, there are some extra LFS specific commands that you can use for direct manipulation of LFS files.
+
+For more info, check out https://git-lfs.com/.
+
 # Structure
 
 ## Assets
