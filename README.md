@@ -32,3 +32,7 @@ The `stores/` directory is meant to contain the bulk of *store-specific assets*.
 Within this directory tree, each store (steam, EGS, windows, etc.) will have its own sub-directory containing assets matching the size, format and content demands of each platform. 
 
 In some cases the creation of these assets may be automated through the use of utility scripts (in `scripts/`) which make use of *raw assets* in `assets/`. In other cases, it may be preferred to create bespoke assets for a given store (for example, if an image ends up being cropped in an unflattering way). 
+
+## Projects
+
+The `projects/` directory is meant to house all of the one-shot Krita marketing project work containing assets that we ought to keep, even if they aren't necessarily flexible enough to be reusable in their current state. Among other things, this includes assets associated with specific events or things with specific embedded text that might not make sense in another context. Going forward, ideally we will mostly have assets that's are flexible enough to be used in various marketing situations, but odds are there will be cases where a specific asset needs to be made, and this is where those things will live.
